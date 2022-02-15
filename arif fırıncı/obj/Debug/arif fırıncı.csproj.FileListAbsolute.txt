@@ -1,0 +1,9 @@
+C:\Users\Öğrenci\Desktop\arif fırıncı\arif fırıncı\bin\Debug\arif fırıncı.exe.config
+C:\Users\Öğrenci\Desktop\arif fırıncı\arif fırıncı\bin\Debug\arif fırıncı.exe
+C:\Users\Öğrenci\Desktop\arif fırıncı\arif fırıncı\bin\Debug\arif fırıncı.pdb
+C:\Users\Öğrenci\Desktop\arif fırıncı\arif fırıncı\obj\Debug\arif fırıncı.csprojResolveAssemblyReference.cache
+C:\Users\Öğrenci\Desktop\arif fırıncı\arif fırıncı\obj\Debug\arif_fırıncı.Form1.resources
+C:\Users\Öğrenci\Desktop\arif fırıncı\arif fırıncı\obj\Debug\arif_fırıncı.Properties.Resources.resources
+C:\Users\Öğrenci\Desktop\arif fırıncı\arif fırıncı\obj\Debug\arif fırıncı.csproj.GenerateResource.Cache
+C:\Users\Öğrenci\Desktop\arif fırıncı\arif fırıncı\obj\Debug\arif fırıncı.exe
+C:\Users\Öğrenci\Desktop\arif fırıncı\arif fırıncı\obj\Debug\arif fırıncı.pdb
